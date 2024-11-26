@@ -18,5 +18,6 @@ npm run dev
 
 [http://verina09.github.io/sustainability-game/]
 
+![screenshot](screenshot.png)
 
 
