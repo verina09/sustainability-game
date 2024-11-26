@@ -1,8 +1,8 @@
-# CitySim.js
+# Sustainability Game
 
-## What is this?
+## Gameplay
 
-This is an ongoing project where I attempt to create a clone of SimCity using [Three.js](https://threejs.org/).
+This is a modification of an existing Threejs based SIMCITY: https://github.com/dgreenheck/simcity-threejs-clone. The idea of the game is to survive as many rounds as possible by fulfilling the needs of population (energy & food) - energy & food should not fall below zero, and GreenHouseGas (GHG) value should not exceed 50. In each round, population will grow and user can select to place food shop/energy plant, or to do nothing. You are given initial $1000 to start the game with.
 
 ## How do I run this locally?
 
@@ -14,23 +14,9 @@ After that, clone this repository, navigate to the root directory and run the fo
 npm run dev
 ```
 
-## How did you make this?
+## Where can I play it online?
 
-Want to know how I made this? Follow the YouTube tutorial series [here](https://www.youtube.com/playlist?list=PLtzt35QOXmkJ9unmoeA5gXHcscQHJVQpW)
+[http://verina09.github.io/sustainability-game/]
 
-## I want to play with it!
 
-Here you go! (FYI - At the moment this game does not have mobile support)
-
-https://dgreenheck.github.io/simcity-threejs-clone
-
-## Support
-
-🌟 Love what I’m building? Consider showing your support by becoming a patron! Your support helps me dedicate more time to developing this project. Plus, you’ll get the chance to influence future development by voting on what features I work on next! Every bit of support makes a huge difference!
-
-💖 Join the community of supporters now: [Become a Patron](https://www.patreon.com/coffeecodecreate)
-
-## License
-
-This code is covered by the MIT License. TLDR; you can do whatever you want with it!
 
